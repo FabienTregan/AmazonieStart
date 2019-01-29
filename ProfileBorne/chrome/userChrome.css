@@ -1,0 +1,14 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* only needed once */
+
+#fullscr-toggler {
+  display: none !important;
+}
+
+#navigator-toolbox {
+  display: none !important;
+}
+
+#TabsToolbar {
+  visibility: collapse;
+}
+
